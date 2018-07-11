@@ -4,7 +4,7 @@
 
 
 #social 
-
 @media only screen and (max-width: 900px) {
-  body
+  body;
+  width: auto 
 }
