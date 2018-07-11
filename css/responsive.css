@@ -1,0 +1,10 @@
+.wrapper  {
+  width: 90%;
+}
+
+
+#social 
+@media only screen and (max-width: 900px) {
+  body
+  width: auto 
+}
